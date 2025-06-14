@@ -2,6 +2,7 @@
  * @name BypassNSFW
  * @author DLL0415
  * @description Lets you bypass NSFW/18+ channels.
+  * https://github.com/DLL0415/BypassNSFW
  * @version 1.0
 
  */
